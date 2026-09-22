@@ -1,0 +1,30 @@
+[
+  {
+    "repo": "microsoft/vscode",
+    "description": "Visual Studio Code is a lightweight but powerful source code editor.",
+    "language": "TypeScript",
+    "stars": 176000,
+    "url": "https://github.com/microsoft/vscode"
+  },
+  {
+    "repo": "github/docs",
+    "description": "The open-source documentation site for GitHub.",
+    "language": "JavaScript",
+    "stars": 16000,
+    "url": "https://github.com/github/docs"
+  },
+  {
+    "repo": "denoland/deno",
+    "description": "A secure runtime for JavaScript and TypeScript.",
+    "language": "Rust",
+    "stars": 99000,
+    "url": "https://github.com/denoland/deno"
+  },
+  {
+    "repo": "astral-sh/ruff",
+    "description": "An extremely fast Python linter and code formatter.",
+    "language": "Rust",
+    "stars": 43000,
+    "url": "https://github.com/astral-sh/ruff"
+  }
+]
